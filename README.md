@@ -1,27 +1,5 @@
----
 
-## 📛 **Nama Aplikasi (Rekomendasi)**
-
-**Nama 1**: `PyVisionSuite`
-
-> *All-in-One Image Processing & Face Analysis Toolkit using PyQt5 and OpenCV*
-
-**Nama 2**: `VisiPy Studio`
-
-> *Aplikasi Pengolahan Citra Digital Interaktif Berbasis Python*
-
-**Nama 3**: `DigiCitra Pro`
-
-> *Digital Image Processing & Detection App – Powered by PyQt5 + OpenCV*
-
----
-
-## 📄 **README.md (Siap Copy-Paste)**
-
-````markdown
-# 🖼️ PyVisionSuite – Aplikasi Pengolahan Citra Digital
-
-**PyVisionSuite** adalah aplikasi desktop GUI berbasis Python yang menyediakan beragam fitur pengolahan citra digital, deteksi wajah, face swap, dan analisis ekspresi secara real-time. Dibangun dengan kombinasi teknologi **PyQt5, OpenCV, dan Dlib**, aplikasi ini cocok untuk pembelajaran, riset, maupun demonstrasi Computer Vision tingkat lanjut.
+Image Processing adalah aplikasi desktop GUI berbasis Python yang menyediakan beragam fitur pengolahan citra digital, deteksi wajah, face swap, dan analisis ekspresi secara real-time. Dibangun dengan kombinasi teknologi **PyQt5, OpenCV, dan Dlib**, aplikasi ini cocok untuk pembelajaran, riset, maupun demonstrasi Computer Vision tingkat lanjut.
 
 ---
 
